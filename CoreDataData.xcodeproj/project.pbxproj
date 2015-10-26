@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		27B5CB641BDB9471006E1D02 /* CoreDataData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27B5CB671BDB9471006E1D02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		27B5CB691BDB9471006E1D02 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		27B5CB691BDB9471006E1D02 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		27B5CB6C1BDB9471006E1D02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		27B5CB6F1BDB9471006E1D02 /* CoreDataData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataData.xcdatamodel; sourceTree = "<group>"; };
 		27B5CB711BDB9471006E1D02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -488,6 +488,7 @@
 				27B5CB911BDB9471006E1D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27B5CB921BDB9471006E1D02 /* Build configuration list for PBXNativeTarget "CoreDataDataTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				27B5CB941BDB9471006E1D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27B5CB951BDB9471006E1D02 /* Build configuration list for PBXNativeTarget "CoreDataDataUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				27B5CB971BDB9471006E1D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
